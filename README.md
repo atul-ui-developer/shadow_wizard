@@ -5,13 +5,12 @@ Get Perfect shadow every time.
 
 npm i shadow_wizard --save
 
-...
+```
 
 import { shadow_Wizard } from 'shadow_wizard';
 	shadow_wizard ({
 		shadow_type: 'soft',
 		padding:false
 	});
-...
-
+```
 
